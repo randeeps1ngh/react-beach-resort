@@ -66,3 +66,18 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+I would like to invite you for our next meetup if you are looking for developer job in London. 
+
+Spring Software has developed a service to help you to get you tech job faster,this Service works on this model.
+•	Evaluate your current skills through our online system moderated with our network of IT Professionals.
+•	Offer you training in case you lack skills to get the tech job. This service has helped many candidates to get tech jobs up to 100k an year.
+•	Market your CV with your assessment report to our network of companies & professionals.
+•	Provide you insights about your current CV and options to improve your job search strategy.
+For detailed discussion we can meet you in person at We Work Moorgate,Details will be shared post booking.
+
+Here is the link to our upcoming meetup events.
+
+
+https://www.meetup.com/Get-a-Tech-Developer-Job/events/263992947/
